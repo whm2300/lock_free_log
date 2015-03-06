@@ -1,0 +1,3 @@
+依赖库：boost_1.57
+
+基于boost lock_free queue日志。多个产生日志线程，一个写日志线程。
